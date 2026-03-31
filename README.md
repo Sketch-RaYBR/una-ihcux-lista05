@@ -1,1 +1,1 @@
-Mostrar o que está acontecendo, evitar erros e deixar o programa simples e fácil de entender.
+O programa mostra o que está acontecendo pro usuário (status), evita travar quando dá erro (prevenção) e usa cores e organização pra ficar mais bonito e fácil de usar (estética).
